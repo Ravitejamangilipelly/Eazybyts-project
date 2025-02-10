@@ -1,7 +1,7 @@
 # My Portfolio Website
 
 Welcome to my portfolio website repository! This project showcases my skills, experience, and projects in web development using HTML, CSS, JavaScript, and Bootstrap. 
-# Live : https://koushik-koppolu-portfolio-webapp.netlify.app/
+
 
 ## Table of Contents
 
@@ -12,9 +12,6 @@ Welcome to my portfolio website repository! This project showcases my skills, ex
 - [Coding](#coding)
 - [Contact](#contact)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -62,24 +59,3 @@ To run this project locally, follow these steps:
 
 3. Open `index.html` in your preferred web browser to view the website.
 
-## Usage
-
-Feel free to explore the different sections of the website to learn more about my skills, experience, and projects. You can also contact me through the Contact section for any inquiries or collaborations.
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Ensure that your contributions are well-documented and follow the project's coding standards.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for visiting my portfolio website repository! If you have any questions or feedback, feel free to reach out through the Contact section of the website.
