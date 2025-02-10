@@ -19,7 +19,7 @@ This section provides an overview of who I am, my background, and my career aspi
 
 ## Experience
 
-In this section, you will find a detailed list of my professional experiences, including job titles, companies, durations, and key responsibilities. Each experience entry may also have links to related projects or accomplishments.
+In this section, you will find a detailed list of my hands-on experiences, including project titles, durations, and key responsibilities. Each hands-on experience entry may also have links to related projects or accomplishments.
 
 ## Projects
 
@@ -37,7 +37,7 @@ This section provides an overview of the technologies and tools I am proficient 
 
 ## Coding
 
-In the Coding section, you can find code snippets, algorithms, or small projects demonstrating my coding skills. This could include links to my repositories, Gists, or embedded code examples.
+In the Coding section, you can find code snippets, algorithms, or small projects demonstrating my coding skills. This could include links to my repositories, Gits, or embedded code examples.
 
 ## Contact
 
